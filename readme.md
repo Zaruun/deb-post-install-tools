@@ -1,3 +1,10 @@
+- git
+- mc
+- tmux
+- neofetch
+- zsh
+- oh-my-zsh
+
 ### root
 sh -c "$(wget https://github.com/Zaruun/deb-post-install-tools/raw/main/r.sh -O -)"
 
